@@ -1,0 +1,1 @@
+this is file w+ mode using python for read/write data.
